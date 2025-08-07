@@ -81,7 +81,7 @@ Concepts: Data Structures, Cybersecurity, Cloud Computing, SDLC
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek62010/Abhishek/output/github-contribution-grid-snakes.svg" />
+  <img src="https://raw.githubusercontent.com/abhishek62010/Abhishek/output/github-contribution-grid-snake.svg" />
 </p>
 
 
