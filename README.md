@@ -73,7 +73,7 @@ Concepts: Data Structures, Cybersecurity, Cloud Computing, SDLC
 
 ("📫 Connect With Me", style_subheading))
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile<br/>
+🔗 LinkedIn: www.linkedin.com/in/abhishek-kumar-3729582b2<br/>
 📧 Email: Abhishekkr62010@gmail.com<br/>
 💻 GitHub: https://github.com/abhikumar62010
 """, ))
